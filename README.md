@@ -1,6 +1,6 @@
-📊 Excel Retail & Sales Analysis Project
+Excel Retail & Sales Analysis Proje
 
-Data Technician Bootcamp – Week 1 Project
+Data Technician Bootcamp – Project
 
 📌 Project Overview
 
