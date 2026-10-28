@@ -22,7 +22,6 @@ Applied a variety of formulas to analyse and enrich datasets:
 • IFS() – Grouping customers into Young Adult, Adult and Senior generations
 • SWITCH() – Categorising hurricane categories (1–5) into maximum wind speeds
 • CONCATENATE(), COUNT(), COUNTA() – Combining and counting values
-• Commission model using absolute references (1.5% for 2023, 2% for 2024)
 
 🔍 Data Cleaning & Preparation
 • Used filters to sort demographic and sales data (e.g., Age → largest to smallest)
@@ -38,7 +37,7 @@ Created multiple PivotTables to understand:
 • Sales by Product Category and Generation
 • Bike revenue and profit by year, country, product category and age group
 
-These tables provided meaningful insights into sales patterns and customer behaviour. For example, female customers contributed 51.1% of retail sales, and Bikes made up about 73% of total bike-sales revenue.
+These tables provided meaningful insights into sales patterns and customer behaviour. 
 
 📊 Charts & Visualisations
 
@@ -55,7 +54,7 @@ Developed charts to visually communicate findings:
 • Categorising hurricane data using the SWITCH() function
 • Building a payroll sheet with VLOOKUP, SUM, SUMIF and COUNTIF
 • Designing charts for effective visual storytelling
-• Researching data protection laws (GDPR, Data Protection Act, Freedom of Information Act, Computer Misuse Act)
+
 
 📁 Included Outputs
 • Retail dataset analysis
