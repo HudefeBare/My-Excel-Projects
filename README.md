@@ -31,6 +31,7 @@ Applied a variety of formulas to analyse and enrich datasets:
 • CONCATENATE(), COUNT(), COUNTA() – Combining and counting values
 
 🔍 Data Cleaning & Preparation
+
 • Used filters to sort demographic and sales data 
 • Restored the original order by sorting on Transaction ID
 • Split dates into day, month and year columns
