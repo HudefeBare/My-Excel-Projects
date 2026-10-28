@@ -56,6 +56,7 @@ Developed charts to visually communicate findings:
 • Visual comparisons showing sales distribution
 
 🗂️ Project Tasks Completed
+
 • Filtering and sorting retail sales data
 • Calculating sales totals and averages with SUM, SUMIF and AVERAGEIF
 • Creating PivotTables for multi-dimensional insights
@@ -65,6 +66,7 @@ Developed charts to visually communicate findings:
 
 
 📁 Included Outputs
+
 • Retail dataset analysis
 • PivotTables summarising sales by category, gender and generation
 • Bike sales PivotTables by year, country and age group
