@@ -74,7 +74,7 @@ Pivot Table and Pivot Charts
 
 <img width="1113" height="493" alt="image" src="https://github.com/user-attachments/assets/b863d98f-8ed0-450a-ad35-594ed4623ec2" />
 
-Pivot Table and Pivot Charts of retail sales by product category and gender. Female customers account for 51.1% of sales and male customers 48.9%, with Electronics the top category at 34.4.
+Pivot Table and Pivot Charts of retail sales by product category and gender. Female customers account for 51.1% of sales and male customers 48.9%, with Electronics the top category at 34.4%.
 
 Visualization
 
@@ -82,9 +82,7 @@ Visualization
 
 Bike sales PivotTable of revenue by age group. Adults (35–64) bring in about half of the 95.2M total revenue, followed by Young Adults (25–34) and Youth (<25).
 
-
 Retail Sales Analysis
-
 
 <img width="456" height="255" alt="Screenshot 2026-10-27 at 23 33 06" src="https://github.com/user-attachments/assets/0be705ea-e4b6-4276-8ffa-7d7eaf926077" />
 
