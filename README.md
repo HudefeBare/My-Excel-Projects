@@ -4,11 +4,12 @@ Data Technician Bootcamp – Project
 
 📌 Project Overview
 
-This project was completed as part of a Data Technician bootcamp, focusing on developing strong foundational skills in Microsoft Excel for data cleaning, transformation, analysis, and visualisation.
+• This project was completed as part of a Data Technician bootcamp, focusing on developing strong foundational skills in Microsoft Excel for data cleaning, transformation, analysis, and visualisation.
 
-Using retail, bike sales, HR and hurricane datasets, the project demonstrates proficiency with formulas, PivotTables, filtering/sorting, categorisation logic, and charts.
+• Using retail, bike sales, HR and hurricane datasets, the project demonstrates proficiency with formulas, PivotTables, filtering/sorting, categorisation logic, and charts.
 
 🧰 Skills & Techniques Used
+
 ✔️ Excel Formulas
 
 Applied a variety of formulas to analyse and enrich datasets:
