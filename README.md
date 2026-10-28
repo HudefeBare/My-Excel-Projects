@@ -14,7 +14,7 @@ Data Technician Bootcamp – Project
 
 Applied a variety of formulas to analyse and enrich datasets:
 
-• SUM() – Total sales values (456,000 across 1,000 transactions)
+• SUM() – Total sales values 
 • SUMIF() / SUMIFS() – Conditional totals by product category and gender
 • AVERAGE() / AVERAGEIF() – Average sale values overall and per category
 • DAY(), MONTH(), YEAR() – Extracting time-based insights from transaction dates
@@ -24,7 +24,7 @@ Applied a variety of formulas to analyse and enrich datasets:
 • CONCATENATE(), COUNT(), COUNTA() – Combining and counting values
 
 🔍 Data Cleaning & Preparation
-• Used filters to sort demographic and sales data (e.g., Age → largest to smallest)
+• Used filters to sort demographic and sales data 
 • Restored the original order by sorting on Transaction ID
 • Split dates into day, month and year columns
 • Ensured fields were ready for use in PivotTables and formulas
