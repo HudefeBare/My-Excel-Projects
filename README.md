@@ -17,11 +17,17 @@ Applied a variety of formulas to analyse and enrich datasets:
 • SUM() – Total sales values 
 
 • SUMIF() / SUMIFS() – Conditional totals by product category and gender
+
 • AVERAGE() / AVERAGEIF() – Average sale values overall and per category
+
 • DAY(), MONTH(), YEAR() – Extracting time-based insights from transaction dates
+
 • VLOOKUP() – Lookup and referencing by Transaction ID
+
 • IFS() – Grouping customers into Young Adult, Adult and Senior generations
+
 • SWITCH() – Categorising hurricane categories (1–5) into maximum wind speeds
+
 • CONCATENATE(), COUNT(), COUNTA() – Combining and counting values
 
 🔍 Data Cleaning & Preparation
