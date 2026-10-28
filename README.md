@@ -1,89 +1,81 @@
-📊 Excel Retail & Sales Analysis Project
+# 📊 Excel Retail & Sales Analysis Project
 
-Data Technician Bootcamp – Project
+*Data Technician Bootcamp – Project*
 
-📌 Project Overview
+## 📌 Project Overview
 
-• This project was completed as part of a Data Technician bootcamp, focusing on developing strong foundational skills in Microsoft Excel for data cleaning, transformation, analysis, and visualisation.
+* This project was completed as part of a Data Technician bootcamp, focusing on developing strong foundational skills in Microsoft Excel for data cleaning, transformation, analysis, and visualisation.
 
-• Using retail, bike sales, HR and hurricane datasets, the project demonstrates proficiency with formulas, PivotTables, filtering/sorting, categorisation logic, and charts.
+* Using retail, bike sales, HR and hurricane datasets, the project demonstrates proficiency with formulas, PivotTables, filtering/sorting, categorisation logic, and charts.
 
-🧰 Skills & Techniques Used
+## 🧰 Skills & Techniques Used
 
-✔️ Excel Formulas
+### ✔️ Excel Formulas
 
 Applied a variety of formulas to analyse and enrich datasets:
 
-• SUM() – Total sales values 
+* SUM() – Total sales values
+* SUMIF() / SUMIFS() – Conditional totals by product category and gender
+* AVERAGE() / AVERAGEIF() – Average sale values overall and per category
+* DAY(), MONTH(), YEAR() – Extracting time-based insights from transaction dates
+* VLOOKUP() – Lookup and referencing by Transaction ID
+* IFS() – Grouping customers into Young Adult, Adult and Senior generations
+* SWITCH() – Categorising hurricane categories (1–5) into maximum wind speeds
+* CONCATENATE(), COUNT(), COUNTA() – Combining and counting values
 
-• SUMIF() / SUMIFS() – Conditional totals by product category and gender
+### 🔍 Data Cleaning & Preparation
 
-• AVERAGE() / AVERAGEIF() – Average sale values overall and per category
+* Used filters to sort demographic and sales data
+* Restored the original order by sorting on Transaction ID
+* Split dates into day, month and year columns
+* Ensured fields were ready for use in PivotTables and formulas
 
-• DAY(), MONTH(), YEAR() – Extracting time-based insights from transaction dates
-
-• VLOOKUP() – Lookup and referencing by Transaction ID
-
-• IFS() – Grouping customers into Young Adult, Adult and Senior generations
-
-• SWITCH() – Categorising hurricane categories (1–5) into maximum wind speeds
-
-• CONCATENATE(), COUNT(), COUNTA() – Combining and counting values
-
-🔍 Data Cleaning & Preparation
-
-• Used filters to sort demographic and sales data 
-• Restored the original order by sorting on Transaction ID
-• Split dates into day, month and year columns
-• Ensured fields were ready for use in PivotTables and formulas
-
-📈 PivotTables & Analysis
+### 📈 PivotTables & Analysis
 
 Created multiple PivotTables to understand:
 
-• Sales by Product Category and Gender
-• Sales by Product Category and Generation
-• Bike revenue and profit by year, country, product category and age group
+* Sales by Product Category and Gender
+* Sales by Product Category and Generation
+* Bike revenue and profit by year, country, product category and age group
 
-These tables provided meaningful insights into sales patterns and customer behaviour. 
+These tables provided meaningful insights into sales patterns and customer behaviour.
 
-📊 Charts & Visualisations
+### 📊 Charts & Visualisations
 
 Developed charts to visually communicate findings:
 
-• Clustered column charts for sales by category, gender and generation
-• PivotTables summarising bike revenue by country and age group
-• Visual comparisons showing sales distribution
+* Clustered column charts for sales by category, gender and generation
+* PivotTables summarising bike revenue by country and age group
+* Visual comparisons showing sales distribution
 
-🗂️ Project Tasks Completed
+## 🗂️ Project Tasks Completed
 
-• Filtering and sorting retail sales data
-• Calculating sales totals and averages with SUM, SUMIF and AVERAGEIF
-• Creating PivotTables for multi-dimensional insights
-• Categorising hurricane data using the SWITCH() function
-• Building a payroll sheet with VLOOKUP, SUM, SUMIF and COUNTIF
-• Designing charts for effective visual storytelling
+* Filtering and sorting retail sales data
+* Calculating sales totals and averages with SUM, SUMIF and AVERAGEIF
+* Creating PivotTables for multi-dimensional insights
+* Categorising hurricane data using the SWITCH() function
+* Building a payroll sheet with VLOOKUP, SUM, SUMIF and COUNTIF
+* Designing charts for effective visual storytelling
 
+## 📁 Included Outputs
 
-📁 Included Outputs
+* Retail dataset analysis
+* PivotTables summarising sales by category, gender and generation
+* Bike sales PivotTables by year, country and age group
+* SWITCH-based categorisation column (hurricane wind speeds)
+* HR payroll and headcount workbook
+* Charts and visual outputs from the visualisation labs
 
-• Retail dataset analysis
-• PivotTables summarising sales by category, gender and generation
-• Bike sales PivotTables by year, country and age group
-• SWITCH-based categorisation column (hurricane wind speeds)
-• HR payroll and headcount workbook
-• Charts and visual outputs from the visualisation labs
-
-🎓 Key Learning Outcomes
+## 🎓 Key Learning Outcomes
 
 This project strengthened skills in:
 
-• Data manipulation and cleaning
-• Building and customising PivotTables and charts
-• Applying intermediate Excel formulas
-•Creating categorisation logic within datasets
-• Using visualisations to support data storytelling
-• Handling data lawfully and securely
+* Data manipulation and cleaning
+* Building and customising PivotTables and charts
+* Applying intermediate Excel formulas
+* Creating categorisation logic within datasets
+* Using visualisations to support data storytelling
+* Handling data lawfully and securely
 
 Pivot Table and Pivot Charts
 
